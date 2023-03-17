@@ -14,20 +14,3 @@ function filterCarByAvailability(cars) {
   // Rubah code ini dengan array hasil filter berdasarkan availablity
   return result;
 }
-
-
-
-
-
-
-
-
-// function filterCarByAvailability(cars) {
-//   const result = [];
-//   cars.forEach((car) => {
-//     if (car.available) {
-//       result.push(car);
-//     }
-//   });
-//   return result;
-// }
